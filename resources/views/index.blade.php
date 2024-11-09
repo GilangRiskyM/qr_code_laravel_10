@@ -19,7 +19,6 @@
                     QR Code Generator
                 </h1>
                 <form class="my-3" action="/" method="get">
-                    @csrf
                     <div class="col-md-6 mb-3">
                         <label for="generate" class="form-label">Input your text here. Example
                             https://www.youtube.com.</label>
